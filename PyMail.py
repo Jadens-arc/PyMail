@@ -15,7 +15,7 @@ class EmailClient:
     
 class EmailWin:
     def __init__(self):
-        self.configFile = json.loads(open('email/config.json').read())
+        self.configFile = json.loads(open('config.json').read())
     
         self.win = Tk()
         self.win.title = 'PyMail'
