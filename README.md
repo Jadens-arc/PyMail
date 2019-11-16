@@ -9,7 +9,13 @@ Input your gmail address along with your app specific password in the config.jso
 > "user_address": [your gmail address]
 > "user_password": [your gmail app specific password]
 
+### Step 3:
+Make sure everything is formatted correctly with your information in double quotes
+
+### Step 4:
+Save the file and run the Python script
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTUxNTg0NF19
+eyJoaXN0b3J5IjpbNzMwMjEyMzhdfQ==
 -->
