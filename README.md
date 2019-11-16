@@ -1,10 +1,10 @@
 # PyMail
 An email spam sender built in python
 ## Usage:
-### Step 1 :
+### Step 1:
 Generate app specific password using the Google account manager
 
-### Step 2 :
+### Step 2:
 Input your gmail address along with your app specific password in the config.json file
 
 	"user_address": [your gmail address]
@@ -21,5 +21,5 @@ Save the file and run the Python script
 You should be greeted with the PyMail window feel free to spam anyone you like
 > *Note google has a maxium of 200 emails you can send to someone at any given time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNzQ4MTM4XX0=
+eyJoaXN0b3J5IjpbLTIwOTE0OTQwNjZdfQ==
 -->
