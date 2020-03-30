@@ -44,4 +44,5 @@ class EmailWin:
         for _ in range( int( self.sendCountEditor.get('1.0', END) ) ):
             myClient.send(self.receiverEditor.get('1.0', END), self.messageEditor.get('1.0', END))
 
-myEmail = EmailWin()
+if __name__ == '__main__':
+    myEmail = EmailWin()
